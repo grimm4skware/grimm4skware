@@ -1,2 +1,3 @@
-var = input("Value: ")
-print(var)
+eng2spn = dict()
+print(eng2spn)
+{}
